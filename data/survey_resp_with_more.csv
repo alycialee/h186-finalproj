@@ -1,0 +1,68 @@
+,Unnamed: 0,timestamp,county,city,state,country,transport,safe_score,safe_score_pas,covid_place,fips,lat,lon,cases
+0,0,2021-03-02 02:27:49.253,Santa Clara County,Sunnyvale,California,USA,Drive,7,8,,06085,37.3688301,-122.0363496,175
+1,17,2021-03-02 04:10:05.603,Santa Clara County,Palo Alto,California,USA,Drive,1,5,Airports,06085,37.4443293,-122.1598465,175
+2,1,2021-03-02 02:31:10.445,Los Angeles County,Pasadena,California,USA,Foot,3,3,"masks, alcohol wipes",06037,34.1476452,-118.1444779,190
+3,2,2021-03-02 02:32:17.160,Los Angeles County,Pasadena,California,USA,Drive,6,6,"Not sure, the only place I went to was the grocery store",06037,34.1476452,-118.1444779,190
+4,3,2021-03-02 02:34:30.755,Los Angeles County,Pasadena,California,USA,Drive,4,4,"the grocery store, since it's the only place I went and saw strangers",06037,34.1476452,-118.1444779,190
+5,4,2021-03-02 02:34:41.312,Los Angeles County,Pasadena,California,USA,Foot,5,5,,06037,34.1476452,-118.1444779,190
+6,21,2021-03-02 08:48:05.851,Los Angeles County,Los Angeles,California,USA,Flight,2,6,,06037,34.0536909,-118.242766,190
+7,25,2021-03-02 10:16:34.055,Los Angeles County,Pasadena,California,USA,Drive,5,5,,06037,34.1476452,-118.1444779,190
+8,34,2021-03-02 13:35:50.319,Los Angeles County,Pasadena,California,USA,Foot,4,4,"Being isolated/on my own but near campus, and knowing that others had chosen to live together in the same area. Fuck you all",06037,34.1476452,-118.1444779,190
+9,36,2021-03-02 15:05:29.737,Los Angeles County,Pasadena,California,USA,Drive,4,4,The 99 Ranch,06037,34.1476452,-118.1444779,190
+10,37,2021-03-02 15:21:52.839,Los Angeles County,East San Gabriel,California,USA,Drive,6,7,,06037,34.11726715,-118.08264947576147,190
+11,38,2021-03-02 15:47:15.466,Los Angeles County,Los Angeles,California,USA,Drive,7,6,,06037,34.0536909,-118.242766,190
+12,45,2021-03-02 15:56:50.732,Los Angeles County,Los Angeles,California,USA,Drive,6,4,,06037,34.0536909,-118.242766,190
+13,46,2021-03-02 16:00:13.015,Los Angeles County,Hacienda Heights,California,USA,Drive,5,5,Los Angeles ,06037,33.9930677,-117.968675,190
+14,54,2021-03-02 17:00:17.213,Los Angeles County,San Marino,California,USA,Drive,7,5,restaurants,06037,34.1215947,-118.1057394,190
+15,58,2021-03-02 17:36:43.402,Los Angeles County,Pasadena,California,USA,Drive,3,0,,06037,34.1476452,-118.1444779,190
+16,74,2021-03-03 00:03:56.886,Los Angeles County,Los Angeles,California,USA,Drive,6,7,Beaches/restaurants/bars,06037,34.0536909,-118.242766,190
+17,5,2021-03-02 02:35:49.414,Dane County,Madison,Wisconsin,USA,Flight,2,4,"In terms of within my city, bars and the state university campus. In the broader state area, no cities in particular really.",55025,43.074761,-89.3837613,23
+18,16,2021-03-02 03:55:54.886,Dane county,Madison,Wisconsin,USA,Flight,2,2,bars,55025,43.074761,-89.3837613,23
+19,6,2021-03-02 02:35:50.649,Bexar County,San Antonio,Texas,USA,Flight,4,3,"Schools; my mom is a PE teacher, and TX reopened early",48029,29.4246002,-98.4951405,13
+20,8,2021-03-02 02:40:47.543,,,Virginia,USA,,6,6,Restaurants,51147,37.1232245,-78.4927721,1
+21,9,2021-03-02 02:44:19.793,Montgomery County,Bethesda,Maryland,USA,Flight,3,5,"Los Angeles (LAX, in particular)",24031,38.9819845,-77.12423413116392,31
+22,24,2021-03-02 10:06:00.552,Montgomery County,Bethesda,Maryland,USA,Flight,1,5,,24031,38.9819845,-77.12423413116392,31
+23,10,2021-03-02 02:51:34.239,McDonough County,,Georgia,USA,Flight,1,0,"I'm a firm believer the COVID pandemic is ""over sold"" as being a deadly pandemic. I spent 9 months in GA, never socially distances, never wore a mask, just lived my life to the fullest, never got COVID. Meanwhile, I actually did get COVID in WI while being forced to wear a mask (They wouldn't let you in stores etc if you weren't wearing one). In all, it ended up being a bad SNIFFLE. Absolutely no reason our country should of been shutdown, or Trump should of been blamed for those deaths. Those are individuals that should of died years ago if it wasn't for modern medicine. ",13151,33.4473361,-84.1468616,2
+24,11,2021-03-02 03:03:51.534,Nassau County,New York City,New York,USA,Flight,3,8,Times Square,36059,40.7000871,-73.6909527,183
+25,12,2021-03-02 03:04:21.852,San Diego County,San Diego,California,USA,Drive,2,2,"Tucked beneath the main bridge leading to the Aztec Ruins in Aztec, New Mexico lies a small, unexposed art exhibit. Filled with graffiti art, graphic displays of life itself, and black-and-white caricatures of Indigenous tribe markings and bowls, it truly encapsulated the raw emotion that I came to associate with the COVID-19 pandemic. There, we found countless murals with messages dating back to last February, when the quarantines and endless isolation first began. We (my roommates and I) only went to this art exhibit late at night - it felt more personal that way -  but it seemed to burst and glisten with life even in the absence of other spectators. To me, it depicted the ""what ifs"" and ""could have beens"" of 2020, but it was most importantly a graphical representation of the sheer unlikelihood of all the random events that led to finding this strange collection of art under a random bridge in the desert. Who could have expected that the combination of a global pandemic, cheap Airbnb prices, and a ragtag group of desperate college students would lead to spontaneously moving to New Mexico during Fall Term. This pandemic has definitely been horrid - the amount of pain, suffering, and desperation spawning from the hell that is COVID-19 is absolutely immeasurable. But, I do think there is at least a modicum of benefit from finally being able to take a step back, take a deep breath, and finally get to adventure underneath a few bridges or two. ",06073,32.7174202,-117.1627728,81
+26,14,2021-03-02 03:13:03.460,San Diego County,Encinitas,California,USA,Drive,2,2,Downtown area with tourist shops,06073,33.0369867,-117.2919818,81
+27,19,2021-03-02 06:21:16.774,San Diego County,San Diego,California,USA,Drive,6,10,stores,06073,32.7174202,-117.1627728,81
+28,50,2021-03-02 16:27:44.286,San Diego County,San Diego,California,USA,Drive,5,0,New York,06073,32.7174202,-117.1627728,81
+29,72,2021-03-02 22:30:41.273,San Diego County,San Diego,California,USA,Drive,1,4,New York,06073,32.7174202,-117.1627728,81
+30,15,2021-03-02 03:18:21.173,,,New Jersey,USA,Flight,3,10,I’m not sure what this question means. Maybe supermarkets or NYC?,34029,40.0757384,-74.4041622,16
+31,18,2021-03-02 04:55:45.699,Palm Beach County,,Florida,USA,Flight,6,7,,12099,26.6279798,-80.4494174,20
+32,20,2021-03-02 07:40:59.143,Boulder County,Louisville,Colorado,USA,Drive,4,4,,08013,39.977763,-105.1319296,8
+33,22,2021-03-02 08:53:17.389,Westchester County,Armonk,New York,USA,Flight,3,6,"When I went home, I stayed home all of the time so I was super low risk (even though at my time, the area I lived in was higher risk (which is why I felt safer there than Pasadena). Also in Pasadena, my roommates had people over a lot. I guess NYC symbolizes covid spread broadly. More specifically, the grocery store in my town was the highest risk place so that more locally.  Feel free to email me at scrucilla@fas.Harvard.edu if you need clarification or me to pick a more specific answer. Or if you want me to answer the above questions based more on “area risk” rather than my personal ability to limit contact more in NY.",36119,41.1330485,-73.71262371614495,537
+34,23,2021-03-02 09:00:24.694,Maricopa County,Phoenix,Arizona,USA,Drive,4,0,,04013,33.4484367,-112.0741417,11
+35,68,2021-03-02 19:46:52.823,Maricopa County,Chandler,Arizona,USA,Drive,3,3,"Probably the reopening of public high school, my little brother got COVID but he recovered quickly and didn't spread it to me or my parents though.",04013,33.3061605,-111.84125,11
+36,76,2021-03-03 04:06:19.536,Maricopa County,Phoenix,Arizona,USA,Drive,5,3,"the native american neighborhood, which had a big outbreak",04013,33.4484367,-112.0741417,11
+37,26,2021-03-02 10:27:24.537,Denver County,Denver,Colorado,USA,Drive,2,7,Urgent cares/test facilities,08031,39.7392364,-104.9848623,45
+38,28,2021-03-02 11:13:01.685,Austin County,Austin,Texas,USA,Flight,2,5,,48453,30.28160455,-97.73782588675766,6
+39,30,2021-03-02 11:51:49.841,Shasta County,Redding,California,USA,Drive,2,8,,06089,40.5863563,-122.3916754,1
+40,31,2021-03-02 12:24:51.156,St. Louis County,,Missouri,USA,Flight,5,7,Rural parts of my state,29189,38.6398744,-90.51881277501238,6
+41,32,2021-03-02 12:29:08.704,,,Washington,USA,All of the above,3,7,Testing site,11001,38.8949924,-77.0365581,36
+42,33,2021-03-02 13:03:38.057,Cook County,Chicago,Illinois,USA,Flight,4,4,Open bars...,17031,41.8755616,-87.6244212,179
+43,35,2021-03-02 14:26:30.038,Franklin County,Columbus,Ohio,USA,,4,8,The shopping area/mall nearby. It’s always crowded.,39049,39.9622601,-83.0007065,7
+44,40,2021-03-02 15:48:10.503,Collin County,,Texas,USA,Flight,1,10,,48085,33.1609629,-96.6060984,13
+45,41,2021-03-02 15:49:14.604,Montgomery County,Ambler,Pennsylvania,USA,Flight,3,9,costco,42091,40.1545535,-75.2215651,42
+46,42,2021-03-02 15:49:33.655,Riverside County,Riverside,California,USA,Drive,4,10,My entire county... we were one of the few in California that did not enforce any COVID safety rules. ,06065,33.9533546,-117.3961623,16
+47,43,2021-03-02 15:51:56.739,Orange County,,California,USA,Drive,3,6,"Huntington Beach, because people don’t really wear masks there and eat at sit down restaurants. ",06059,33.7500378,-117.8704931,42
+48,44,2021-03-02 15:54:32.636,Orange County,,California,USA,Drive,4,4,,06059,33.7500378,-117.8704931,42
+49,70,2021-03-02 20:15:05.367,Orange County,,California,USA,Drive,3,6,"Huntington Beach, because people don’t really wear masks there and eat at sit down restaurants. ",06059,33.7500378,-117.8704931,42
+50,47,2021-03-02 16:03:59.098,Wayne County,Livonia,Michigan,USA,Flight,8,5,University of Michigan ,26163,42.36837,-83.3527097,23
+51,48,2021-03-02 16:08:27.469,Salt Lake County,Salt Lake City,Utah,USA,Flight,2,3,BLM and other large scale protests,49035,40.7596198,-111.8867975,24
+52,51,2021-03-02 16:32:35.501,Marin County,,California,USA,Drive,2,2,,06041,38.0409144,-122.6199638,16
+53,52,2021-03-02 16:34:04.157,Honolulu County,Honolulu,Hawaii,USA,Flight,1,8,,15003,21.304547,-157.8556764,10
+54,62,2021-03-02 18:09:08.989,Honolulu County,Honolulu,Hawaii,USA,Flight,3,7,"Gatherings at beach parks, which were shut down several times even though spread is minimized outdoors",15003,21.304547,-157.8556764,10
+55,66,2021-03-02 19:19:40.728,Honolulu County,Wahiawa,Hawaii,USA,Flight,2,4,Hawaii's beaches,15003,21.500624100000003,-158.0166720181598,10
+56,53,2021-03-02 16:40:32.053,,,Maryland ,USA,Flight,5,3,Backyard parties ,24013,39.5162234,-76.9382069,1
+57,69,2021-03-02 19:58:39.869,,,Maryland,USA,Flight,4,8,,24013,39.5162234,-76.9382069,1
+58,56,2021-03-02 17:04:32.169,Dallas County,Dallas,Texas,USA,,5,0,,48113,32.7762719,-96.7968559,34
+59,59,2021-03-02 17:48:35.055,Alameda County,Fremont,California,USA,Drive,3,7,,06001,37.5482697,-121.9885719,53
+60,61,2021-03-02 18:04:16.633,Tarrant County,,Texas,USA,Drive,1,6,,48439,32.7513658,-97.335696,6
+61,77,2021-03-03 11:52:39.506,Tarrant County,Dallas,Texas,USA,Flight,2,6,football stadium ,48439,32.89651945,-97.0465220537124,6
+62,63,2021-03-02 18:28:23.909,El Paso County,Colorado Springs,Colorado,USA,Flight,1,7,Denver,08041,38.8339578,-104.8253485,8
+63,65,2021-03-02 19:03:05.963,Multnomah County,Portland,Oregon,USA,Flight,3,7,Hospital where my mom works - she often was exposed to / dealing with covid positive patients,41051,45.5261935,-122.5903323,3
+64,71,2021-03-02 21:34:08.665,Howard County,,Maryland,USA,Flight,2,3,Public schools with empty parking lots during the week,24027,39.2305289,-76.9166241,8
+65,73,2021-03-03 00:03:50.288,Duval County,Jacksonville,Florida,USA,Drive,5,8,I was practically paranoid of everyone and everywhere outside of my house. I didn't leave a 1 mile radius of my house for months. Especially because Florida was not doing a great job at containing the virus at all. The places that I was most scared of were Cotsco and grocery stores since we'd have to go there out of necessity the most. And seeing the people with improper coverage of masks.,12031,30.3321838,-81.655651,14
+66,75,2021-03-03 03:22:30.434,Santa Cruz County,,California,USA,Drive,3,0,the hospital?,06087,37.050096,-121.9905908,2
